@@ -33,7 +33,7 @@ html {
 }
 
 body.dark {
-	--light: #0C0C1E;
+	--light: #3F3F3F;
 	--grey: #060714;
 	--dark: #FBFBFB;
 }
